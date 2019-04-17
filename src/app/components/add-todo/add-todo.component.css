@@ -1,0 +1,11 @@
+.noBorders {
+    border: 0;
+    padding: 0;
+    height: 2.5em;
+    border-bottom: 1px #333 dotted;
+}
+
+.square {
+    border-radius: 0;
+    float: right;
+}
